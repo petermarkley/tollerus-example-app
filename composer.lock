@@ -3106,16 +3106,16 @@
         },
         {
             "name": "petermarkley/tollerus",
-            "version": "v1.0.6",
+            "version": "v1.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/petermarkley/tollerus.git",
-                "reference": "160bc005a4b33d1072006c29134793c477ba4067"
+                "reference": "d157ef78cf328959bd8af6325463067fb6254940"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/petermarkley/tollerus/zipball/160bc005a4b33d1072006c29134793c477ba4067",
-                "reference": "160bc005a4b33d1072006c29134793c477ba4067",
+                "url": "https://api.github.com/repos/petermarkley/tollerus/zipball/d157ef78cf328959bd8af6325463067fb6254940",
+                "reference": "d157ef78cf328959bd8af6325463067fb6254940",
                 "shasum": ""
             },
             "require": {
@@ -3149,9 +3149,9 @@
             "description": "A conlang dictionary Laravel package - the luxurious way to build, track, and browse your conlang's lexical data",
             "support": {
                 "issues": "https://github.com/petermarkley/tollerus/issues",
-                "source": "https://github.com/petermarkley/tollerus/tree/v1.0.6"
+                "source": "https://github.com/petermarkley/tollerus/tree/v1.0.9"
             },
-            "time": "2026-03-13T03:45:19+00:00"
+            "time": "2026-03-14T06:30:24+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -9059,5 +9059,5 @@
         "php": "^8.2"
     },
     "platform-dev": {},
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.6.0"
 }
